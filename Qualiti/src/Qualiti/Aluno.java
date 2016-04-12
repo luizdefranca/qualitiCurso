@@ -6,7 +6,7 @@ public class Aluno {
 		{
 			
 			
-			String nome, sobrenome, nomePai, nomeMae, endereco, matricula;
+			//String nome, sobrenome, nomePai, nomeMae, endereco, matricula;
 			
 			int idade;
 			
