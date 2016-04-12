@@ -10,7 +10,11 @@ public class Aluno {
 			
 			int idade;
 			
+			/*
 			
+			Apenas um comentário
+			
+			*/
 			
 			void setNome(String nome)
 			{
